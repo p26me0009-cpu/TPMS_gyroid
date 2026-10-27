@@ -155,7 +155,7 @@ The resulting binary will be placed inside `dist/TPMS_Generator.exe`.
 
 ## 👤 Author & Academic Profile
 
-**Meysam Naderi**  
+**Sonu Singh**  
 *Specialist in Computational Fluid Dynamics (CFD), Transport Phenomena & Numerical Simulation*  
 
 - 💼 **LinkedIn**: [https://www.linkedin.com/in/sonu-s-46a646327/)
@@ -163,7 +163,6 @@ The resulting binary will be placed inside `dist/TPMS_Generator.exe`.
 
 If you use this software in academic research, journal publications, or CFD/FEA engineering workflows, please feel free to connect or cite this project.
 
----
 
-## 📄 License
-This project is licensed under the **MIT License** — free for academic, personal, and commercial research.
+
+

@@ -85,9 +85,8 @@ Enter any symbolic formula $f(x, y, z) = 0$ using `x, y, z, p, k` and standard m
 
 For end-users and researchers who do not want to manage Python virtual environments:
 
-1. Go to the [**Releases**](../../releases) tab of this repository.
-2. Download **`TPMS_Generator.exe`**.
-3. Double-click to launch immediately. No installation, Python interpreter, or administrative privileges required.
+1. Download **`TPMS_Generator.exe`**.
+2. Double-click to launch immediately. No installation, Python interpreter, or administrative privileges required.
 
 ---
 

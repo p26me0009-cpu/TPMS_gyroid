@@ -158,8 +158,8 @@ The resulting binary will be placed inside `dist/TPMS_Generator.exe`.
 **Meysam Naderi**  
 *Specialist in Computational Fluid Dynamics (CFD), Transport Phenomena & Numerical Simulation*  
 
-- 💼 **LinkedIn**: [linkedin.com/in/meysam-naderi-cfd](https://www.linkedin.com/in/meysam-naderi-cfd/)
-- ✉️ **Contact**: [meysam.nederi@gmail.com](mailto:meysam.nederi@gmail.com)
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/sonu-s-46a646327/)
+- ✉️ **Contact**: [sonusingh701144@gmail.com](mailto:sonusingh701144@gmail.com)
 
 If you use this software in academic research, journal publications, or CFD/FEA engineering workflows, please feel free to connect or cite this project.
 
